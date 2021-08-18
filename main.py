@@ -5,7 +5,6 @@ import argparse
 import sys
 
 # Created using python3.7
-# Usage python3.7 main.py -m motoboy_id => python3.7 main.py 4 (show all details from motoboy 4)
 
 def main():
     global motoboys, stores, orders
