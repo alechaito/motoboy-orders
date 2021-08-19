@@ -32,35 +32,38 @@ Send motoboy_id or 0 to get all or ctrl+c to exit: 0
     Sending orders ... 
 
     Send motoboy_id or 0 to get all or ctrl+c to exit:0
-    Motoboy id : 1, Name: Connie Glueck
+    Motoboy id: 1,         Name: Ashley Paradis,         TotalWin: 0         
     Not received any order...
-    Total winned: R$0
     ---------------------------- 
 
-    Motoboy id : 2, Name: Elaine Sanchez
-    Received order from store: 3, Value; R$50, Comission: R$9.5
-    Total winned: R$9.5
+    Motoboy id: 2,         Name: Ellen Reilly,         TotalWin: 9.5         
+    Store ID    Order Value    Comission
+    ----------  -------------  -----------
+            3             50          9.5
     ---------------------------- 
 
-    Motoboy id : 3, Name: James Rivera
-    Received order from store: 2, Value; R$50, Comission: R$4.5
-    Received order from store: 2, Value; R$50, Comission: R$4.5
-    Total winned: R$9.0
+    Motoboy id: 3,         Name: Teresa Carter,         TotalWin: 9.0         
+    Store ID    Order Value    Comission
+    ----------  -------------  -----------
+            2             50          4.5
+            2             50          4.5
     ---------------------------- 
 
-    Motoboy id : 4, Name: Sarah Grady
-    Received order from store: 1, Value; R$50, Comission: R$4.5
-    Received order from store: 1, Value; R$50, Comission: R$4.5
-    Received order from store: 1, Value; R$50, Comission: R$4.5
-    Received order from store: 2, Value; R$50, Comission: R$4.5
-    Received order from store: 3, Value; R$50, Comission: R$9.5
-    Total winned: R$27.5
+    Motoboy id: 4,         Name: Kevin Jones,         TotalWin: 30.5         
+    Store ID    Order Value    Comission
+    ----------  -------------  -----------
+            1             50          4.5
+            1             50          4.5
+            1             50          4.5
+            3            100         17
     ---------------------------- 
 
-    Motoboy id : 5, Name: Jeffery Koopman
-    Received order from store: 2, Value; R$50, Comission: R$5.5
-    Received order from store: 3, Value; R$100, Comission: R$18.0
-    Total winned: R$23.5
+    Motoboy id: 5,         Name: Marilyn Lee,         TotalWin: 21.5         
+    Store ID    Order Value    Comission
+    ----------  -------------  -----------
+            2             50          5.5
+            2             50          5.5
+            3             50         10.5
     ---------------------------- 
 
 
